@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Sou uma desenvolvedora full-stack, com foco em front-end e apaixonada por criar interfaces com foco na experiência de usuário. Minha jornada no mundo do desenvolvimento começou com uma paixão pela combinação de design e tecnologia, e desde então tenho trabalhado para aprimorar minhas habilidades e permanecer atualizada com as últimas tendências e tecnologias.
+Sou uma desenvolvedora full-stack, com foco em front-end e apaixonada por criar interfaces que melhorem a experiência de usuário. Minha jornada no mundo do desenvolvimento começou com uma paixão pela combinação de design e tecnologia, e desde então tenho trabalhado para aprimorar minhas habilidades e permanecer atualizada com as últimas tendências e tecnologias.
 Para mais detalhes sobre carreira e jornada, dá uma olhada no meu [Linkedin](https://www.linkedin.com/in/kallyne-rocha/)
 
 <img src="https://github.com/KallyneRocha/KallyneRocha/assets/81446987/2bffeb27-5b40-4f4e-8353-fdc524f6ad17" width="300">
